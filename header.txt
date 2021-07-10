@@ -1,3 +1,5 @@
 Some text from header
 Change from Master
-New check
+Change from first
+
+Text from master: New check
